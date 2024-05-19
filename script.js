@@ -24,3 +24,7 @@ titleContent.forEach((title, index) => {
     boxed.classList.add("active");
   };
 });
+
+function LinkTo(){
+  location.href='https://www.hay8811.com/?inviteCode=1766861';
+}
